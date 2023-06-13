@@ -1,0 +1,58 @@
+
+
+@font-face {
+    font-family: 'bionbook_cond';
+    src: url('BionSquirel1/bion-bookcond-webfont.woff2') format('woff2'),
+         url('BionSquirel1/bion-bookcond-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'bionbook';
+    src: url('BionSquirel1/bion-book-webfont.woff2') format('woff2'),
+         url('BionSquirel1/bion-book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'bionbold_cond';
+    src: url('BionSquirel1/bion-boldcond-webfont.woff2') format('woff2'),
+         url('BionSquirel1/bion-boldcond-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'bionbold';
+    src: url('BionSquirel1/bion-bold-webfont.woff2') format('woff2'),
+         url('BionSquirel1/bion-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'han_ziregular';
+    src: url('Han Zi/hanzi-webfont.woff2') format('woff2'),
+         url('Han Zi/hanzi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
